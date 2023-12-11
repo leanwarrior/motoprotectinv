@@ -1,0 +1,24 @@
+.login-body{
+    background-color: #2a3542;
+}.login-page{
+    float:initial ;
+    width: 500px;
+    margin: 7% auto;
+    padding: 0 20px;
+    background-color: #f9f9f9;
+    border: 2px solid black;
+    border-radius: 1ch;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }.login-page .text-center{
+    margin-bottom: 10px;
+  }.titulolog{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }.inicion{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 25px;
+  }.header-color{
+    background-color: #2a3542;
+  }
